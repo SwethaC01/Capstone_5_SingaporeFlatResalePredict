@@ -6,7 +6,7 @@ This project involves understanding and preprocessing data, conducting Explorato
 ## Domain: :hotel: Real Estate 
 
 ## 🛠 Technologies Used
-* Python 	![](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+* Python 
 * Numpy
 * Pandas
 * Scikit-learn
@@ -27,7 +27,7 @@ Loaded the resale flat price CSV into a DataFrame.
 Cleaned and filled missing values, addressed outliers,and adjusted data types.
 Analyzed data distribution and treated skewness.
 
-### Exploratory Data Analysis(EDA):
+### Exploratory Data Analysis(EDA): :bar_chart:
 Understanding and visualizing the data using EDA techniques such as boxplots, histograms, and violin plots.
 
 ### Feature Engineering:
