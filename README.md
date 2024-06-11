@@ -19,11 +19,11 @@ This project involves understanding and preprocessing data, conducting Explorato
 ## 📘 Approach
 
 ### Data Understanding:
-Load and understand the copper data through CSV files.
+Load and understand the resale flat price data through CSV files.
 Check the data for consistency and completeness.
 
 ### Data Preprocessing:
-Loaded the copper CSV into a DataFrame.
+Loaded the resale flat price CSV into a DataFrame.
 Cleaned and filled missing values, addressed outliers,and adjusted data types.
 Analyzed data distribution and treated skewness.
 
