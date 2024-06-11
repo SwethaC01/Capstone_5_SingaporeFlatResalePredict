@@ -21,24 +21,31 @@ This project involves understanding and preprocessing data, conducting Explorato
 ### Data Understanding:
 Load and understand the copper data through CSV files.
 Check the data for consistency and completeness.
+
 ### Data Preprocessing:
 Loaded the copper CSV into a DataFrame.
 Cleaned and filled missing values, addressed outliers,and adjusted data types.
 Analyzed data distribution and treated skewness.
+
 ### Exploratory Data Analysis(EDA):
 Understanding and visualizing the data using EDA techniques such as boxplots, histograms, and violin plots.
+
 ### Feature Engineering:
 Drop highly correlated columns using a heatmap from Seaborn.
+
 ### Model Evaluation through Regression Model:
 * Mean Absolute Error (MAE)
 * Mean Squared Error (MSE)
 * Root Mean Squared Error (RMSE)
-* R-squared (R²)
+* R-squared (R²).
+
 Split the dataset into training and testing sets.
 Train and evaluate regression models for 'Predicted Resale_Price'.
 Pickled the trained models for deployment.
+
 ### Streamlit:
 The user interface and visualization are created using the Streamlit framework.
+
 ### Render Deployment:
 Deploy the web application on a hosting platform like Render for user access.
 
