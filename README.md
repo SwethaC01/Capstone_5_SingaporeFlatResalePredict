@@ -40,7 +40,7 @@ Drop highly correlated columns using a heatmap from Seaborn.
 * R-squared (R²).
 
 Split the dataset into training and testing sets.
-Train and evaluate regression models for Predicted Resale_Price:money_with_wings:.
+Train and evaluate regression models for Predicted Resale_Price :money_with_wings:.
 Pickled the trained models for deployment.
 
 ### Streamlit:
