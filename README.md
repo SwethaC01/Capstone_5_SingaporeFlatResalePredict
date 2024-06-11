@@ -1,4 +1,4 @@
-# Capstone_5_SingaporeFlatResalePredict :love_hotel:
+# Capstone_5_SingaporeFlatResalePredict :european_castle:
 
 ## :page_with_curl: Project Overview
 This project involves understanding and preprocessing data, conducting Exploratory Data Analysis (EDA), and developing machine learning models to address challenges in predicting resale prices. Specifically, the project focuses on building a regression model to predict the resale price of properties. Additionally, an interactive Streamlit web application will be created to facilitate real-time predictions using these models. The final step will involve deploying the web application on the Render platform for user access.
