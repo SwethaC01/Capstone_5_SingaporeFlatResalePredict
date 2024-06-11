@@ -30,10 +30,10 @@ Understanding and visualizing the data using EDA techniques such as boxplots, hi
 ### Feature Engineering:
 Drop highly correlated columns using a heatmap from Seaborn.
 ### Model Evaluation through Regression Model:
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-R-squared (R²)
+* Mean Absolute Error (MAE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
+* R-squared (R²)
 Split the dataset into training and testing sets.
 Train and evaluate regression models for 'Predicted Resale_Price'.
 Pickled the trained models for deployment.
