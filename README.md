@@ -18,7 +18,7 @@ This project involves understanding and preprocessing data, conducting Explorato
 
 ## 📘 Approach
 
-### Data Understanding::page_facing_up:
+### Data Understanding: :page_facing_up:
 Load and understand the resale flat price data through CSV files.
 Check the data for consistency and completeness.
 
@@ -27,13 +27,13 @@ Loaded the resale flat price CSV into a DataFrame.
 Cleaned and filled missing values, addressed outliers,and adjusted data types.
 Analyzed data distribution and treated skewness.
 
-### Exploratory Data Analysis(EDA)::bar_chart:
+### Exploratory Data Analysis(EDA): :bar_chart:
 Understanding and visualizing the data using EDA techniques such as boxplots, histograms, and violin plots.
 
-### Feature Engineering::chart_with_upwards_trend:
+### Feature Engineering: :chart_with_upwards_trend:
 Drop highly correlated columns using a heatmap from Seaborn.
 
-### Model Evaluation through Regression Model::triangular_ruler:
+### Model Evaluation through Regression Model: :triangular_ruler:
 * Mean Absolute Error (MAE)
 * Mean Squared Error (MSE)
 * Root Mean Squared Error (RMSE)
@@ -43,14 +43,14 @@ Split the dataset into training and testing sets.
 Train and evaluate regression models for Predicted Resale_Price :money_with_wings:.
 Pickled the trained models for deployment.
 
-### Streamlit::computer:
+### Streamlit: :computer:
 The user interface and visualization are created using the Streamlit framework.
 
-### Render Deployment::desktop_computer:
+### Render Deployment: :desktop_computer:
 Deploy the web application on a hosting platform like Render for user access.
 
 
-### 💻 Import Packages
+### 💻Import Packages
 ```python
 import pandas as pd
 import numpy as np
