@@ -54,7 +54,7 @@ This project involves understanding and preprocessing data, conducting Explorato
 
 ### Live Application 🌐
 
-**You can try out the live application here:** [Capstone 5 Singapore Flat Resale Predict](https://capstone-5-singaporeflatresalepredict.onrender.com).
+**Capstone 5 Singapore Flat Resale Predict**: Access the live application [here](https://capstone-5-singaporeflatresalepredict.onrender.com).
 
 
 ### 💻Import Packages
