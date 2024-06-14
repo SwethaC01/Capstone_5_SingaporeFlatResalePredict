@@ -15,7 +15,7 @@ with st.sidebar:
     select = option_menu(None,["Home","Price Prediction"],icons=["house-fill","graph-up-arrow"])
     
 if select == "Home":
-    st.image(r'D:\Swetha Documents\FLAT_RESALEPRICE_PROJECT\hotel.jpg',caption='Singapore Flat Resale Price',use_column_width=True)
+    st.image(r'hotel.jpg',caption='Singapore Flat Resale Price',use_column_width=True)
 
     st.header(':hammer_and_pick: :blue[TECHNOLOGIES USED]')
 
@@ -113,7 +113,7 @@ elif select =="Price Prediction":
                     st.error(":rotating_light: Fill all the required fields.")
 
             else:
-                with open(r"D:\Swetha Documents\FLAT_RESALEPRICE_PROJECT\DecisiontreeModel.pkl",'rb') as file_1:
+                with open(r"DecisiontreeModel.pkl",'rb') as file_1:
                     decision_tree_model = pickle.load(file_1)
                 
                 a1 = int(Month)
