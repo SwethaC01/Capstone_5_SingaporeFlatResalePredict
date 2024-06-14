@@ -15,7 +15,7 @@ with st.sidebar:
     select = option_menu(None,["Home","Price Prediction"],icons=["house-fill","graph-up-arrow"])
     
 if select == "Home":
-    st.image(r'D:\Swetha Documents\FLAT_RESALEPRICE_PROJECT\hotel.jpg',caption='Singapore Flat Resale Price',use_column_width=True)
+    st.image('hotel.jpg',caption='Singapore Flat Resale Price',use_column_width=True)
 
     st.header(':hammer_and_pick: :blue[TECHNOLOGIES USED]')
 
