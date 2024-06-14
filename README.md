@@ -19,8 +19,8 @@ This project involves understanding and preprocessing data, conducting Explorato
 ## 📘 Approach
 
 ### Data Understanding: :page_facing_up:
-**Load and Understand Data:** Begin by loading the resale flat price data from CSV files. This step involves reading the data into a Pandas DataFrame and performing an initial review to understand its structure and content.
-**Ensure Data Consistency and Completeness:** Check for any inconsistencies or missing data points to ensure the dataset is complete and reliable for analysis.
+* **Load and Understand Data:** Begin by loading the resale flat price data from CSV files. This step involves reading the data into a Pandas DataFrame and performing an initial review to understand its structure and content.
+* **Ensure Data Consistency and Completeness:** Check for any inconsistencies or missing data points to ensure the dataset is complete and reliable for analysis.
 
 ### Data Preprocessing:✂️
 * **Load CSV into DataFrame:** Import the CSV file into a Pandas DataFrame for easy manipulation and analysis.
