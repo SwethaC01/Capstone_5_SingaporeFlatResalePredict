@@ -50,11 +50,11 @@ This project involves understanding and preprocessing data, conducting Explorato
 **Develop UI and Visualization**: Use the Streamlit framework to create an interactive user interface that allows users to input data and view predictions. Include visualizations to enhance user experience.
 
 ### Render Deployment: :desktop_computer:
-**Deploy Web Application on Render**: Host the web application on the Render platform, making it accessible to users via a web browser.
+**Deploy Web Application on Render**:  Use Render to make our web application accessible on the internet so users can access it from anywhere.
 
 ### Live Application 🌐
 
-**Capstone 5 Singapore Flat Resale Predict**: Access the live application [here](https://capstone-5-singaporeflatresalepredict.onrender.com).
+**You can try out the live application here:** [Capstone 5 Singapore Flat Resale Predict](https://capstone-5-singaporeflatresalepredict.onrender.com).
 
 
 ### 💻Import Packages
